@@ -1,0 +1,47 @@
+#box1
+{
+    background-color: red;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    color: red;
+    width: 200px;
+    height: 200px;
+    z-index: 1;
+}
+
+#box2
+{
+    background-color: blue;
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    color: red;
+    width: 200px;
+    height: 200px;
+    z-index: 1;
+}
+
+#box3
+{
+    background-color: yellow;
+    position: absolute;
+    top: 70px;
+    left: 70px;
+    color: red;
+    width: 200px;
+    height: 200px;
+    z-index: 3;
+}
+
+#box4
+{
+    background-color: darkcyan;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    color: red;
+    width: 200px;
+    height: 200px;
+    z-index: 2;
+}
