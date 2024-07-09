@@ -72,7 +72,12 @@ body {
     padding: 10px;
     margin-bottom: 10px;
     border: none;
-    border-radius: 5px;
+    border-radius: 6px;
+}
+
+.contact-form input:hover,
+.contact-form textarea:hover{
+    border: solid;
 }
 
 .contact-form button {
